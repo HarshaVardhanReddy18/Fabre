@@ -17,4 +17,4 @@ pass: 1253temp
 
 3)Go to my apps
 
-4) View the bubble editor
+4)View the bubble editor
