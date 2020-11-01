@@ -1,5 +1,6 @@
 # Fabre
-We created the application in Bubble website builder
+
+Fabre is created in Bubble website builder
 
 Go through the below link to visit our website
 
@@ -18,3 +19,6 @@ pass: 1253temp
 3)Go to my apps
 
 4)View the bubble editor
+
+
+Check out the videos for more explanation regarding website
